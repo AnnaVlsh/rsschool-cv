@@ -3,14 +3,18 @@
 
 ## Contacts
 **Phone:** +7(913)208-22-49
+
 **Email:** LuoAmog@gmail.com
+
 **Telegram:** @AnnaVlsh
+
 **GitHub:** [AnnaVlsh](https://github.com/AnnaVlsh)
+
 ---
 
 ## Education
 Incomplete higher education: Siberian State University of Telecommunications and Informatics
-Faculty of Informatics and Computer Engineering (IVT)
+
 ---
 ## Skills
 * Figms
@@ -18,8 +22,8 @@ Faculty of Informatics and Computer Engineering (IVT)
 * C# (Basic level)
 * Git/GitHub
 * English A1
----
 
+---
 ## Code example
 
 ```
