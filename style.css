@@ -1,0 +1,94 @@
+/*Base*/
+body {
+    background-color: #ffffff;
+}
+h1, h2{
+    color: #333;
+}
+p{
+    color: #333;
+}
+.link-style{
+    text-decoration: none;
+    color: #000;
+}
+.link-style:hover{
+    font-weight: bold;
+    color: #000;
+}
+/*HEADER*/
+nav {
+    background-color: #333;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+nav ul li {
+    margin-right: 75px;
+    text-transform: uppercase;
+    color: #ffffff;
+    cursor: pointer;
+}
+nav ul li:last-child{
+    margin-right: 0px;
+}
+.link-nav{
+    text-decoration: none;
+    color: #ffffff;
+}
+.link-nav:hover{
+    font-weight: bold;
+    color: #fff;
+}
+header {
+    margin: 0 auto;
+    max-width: 575px;
+}
+/*BODY*/
+main{
+    margin: 20px auto;
+    max-width: 575px;
+}
+.NameContacts{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 10px;
+    border-bottom: #333 2px solid;
+}
+.image{
+    max-width: 250px;
+}
+.text{
+    max-width: 350px;
+}
+.info{
+    display: block;
+}
+.projects{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.projects-v{
+    max-width: 165px;
+}
+/*FOOTER*/
+footer{
+    margin: 20px auto;
+    max-width: 575px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    border-top: #333 2px solid;
+}
+.github{
+    margin-top: 10px;
+    max-width: 100px;   
+}
+.rs{
+    margin-top: 10px;
+    max-width: 100px;
+}
